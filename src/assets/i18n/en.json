@@ -1,0 +1,21 @@
+{
+    "proj_name": "PokeShop",
+    "header": {
+        "ecommerce": "Pokeshop",
+        "service": "Service",
+        "order": "Pedidos",
+        "product": "Productos",
+        "user": "Usuario",
+        "search": "Buscar",
+        "signin": "Login",
+        "signup": "Registrarse",
+        "my_profile": "Mi perfil",
+        "logout": "Salir",
+        "signout": "Salir"
+    },
+    "footer": {
+        "year": "2024",
+        "d&d_by": "Desarrollado por",
+        "my_name": "Juan Carlos Pérez Medina"
+    }
+}

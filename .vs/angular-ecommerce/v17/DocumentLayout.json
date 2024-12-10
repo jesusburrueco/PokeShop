@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\app\\customer\\buyer\\buyer-dashboard\\buyer-dashboard.component.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\customer\\buyer\\buyer-dashboard\\buyer-dashboard.component.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\app\\customer\\buyer\\checkout\\checkout.component.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\customer\\buyer\\checkout\\checkout.component.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\app\\customer\\buyer\\checkout\\checkout.component.ts||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\customer\\buyer\\checkout\\checkout.component.ts||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\app\\product\\product-crud\\product-crud.component.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\product\\product-crud\\product-crud.component.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\app\\customer\\signin-signup\\signin-signup.component.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\customer\\signin-signup\\signin-signup.component.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\app\\admin\\admin-login\\admin-login.component.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\admin\\admin-login\\admin-login.component.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\app\\user-profile\\user-profile.component.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\user-profile\\user-profile.component.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\assets\\i18n\\en.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\assets\\i18n\\en.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\app\\shared\\layouts\\header\\header.component.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\shared\\layouts\\header\\header.component.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\app\\app.module.ts||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.module.ts||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\app\\app-routing.module.ts||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app-routing.module.ts||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\app\\customer\\buyer\\buyer-dashboard\\buyer-dashboard.component.scss||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\customer\\buyer\\buyer-dashboard\\buyer-dashboard.component.scss||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\index.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\main.ts||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.ts||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\app\\home\\home.component.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\home\\home.component.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\app\\admin\\admin-dashboard\\admin-dashboard.component.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\admin\\admin-dashboard\\admin-dashboard.component.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\mock-api-data.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mock-api-data.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\environments\\environment.prod.ts||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\environments\\environment.prod.ts||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\environments\\environment.ts||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\environments\\environment.ts||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\e2e\\src\\app.po.ts||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:e2e\\src\\app.po.ts||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "buyer-dashboard.component.html",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\app\\customer\\buyer\\buyer-dashboard\\buyer-dashboard.component.html",
+              "RelativeDocumentMoniker": "src\\app\\customer\\buyer\\buyer-dashboard\\buyer-dashboard.component.html",
+              "ToolTip": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\app\\customer\\buyer\\buyer-dashboard\\buyer-dashboard.component.html",
+              "RelativeToolTip": "src\\app\\customer\\buyer\\buyer-dashboard\\buyer-dashboard.component.html",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABEAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-07T16:24:53.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "checkout.component.ts",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\app\\customer\\buyer\\checkout\\checkout.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\customer\\buyer\\checkout\\checkout.component.ts",
+              "ToolTip": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\app\\customer\\buyer\\checkout\\checkout.component.ts",
+              "RelativeToolTip": "src\\app\\customer\\buyer\\checkout\\checkout.component.ts",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-07T16:22:27.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "checkout.component.html",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\app\\customer\\buyer\\checkout\\checkout.component.html",
+              "RelativeDocumentMoniker": "src\\app\\customer\\buyer\\checkout\\checkout.component.html",
+              "ToolTip": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\app\\customer\\buyer\\checkout\\checkout.component.html",
+              "RelativeToolTip": "src\\app\\customer\\buyer\\checkout\\checkout.component.html",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACwAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-07T16:21:48.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "product-crud.component.html",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\app\\product\\product-crud\\product-crud.component.html",
+              "RelativeDocumentMoniker": "src\\app\\product\\product-crud\\product-crud.component.html",
+              "ToolTip": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\app\\product\\product-crud\\product-crud.component.html",
+              "RelativeToolTip": "src\\app\\product\\product-crud\\product-crud.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-07T16:21:20.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "signin-signup.component.html",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\app\\customer\\signin-signup\\signin-signup.component.html",
+              "RelativeDocumentMoniker": "src\\app\\customer\\signin-signup\\signin-signup.component.html",
+              "ToolTip": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\app\\customer\\signin-signup\\signin-signup.component.html",
+              "RelativeToolTip": "src\\app\\customer\\signin-signup\\signin-signup.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-07T16:14:24.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "admin-login.component.html",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\app\\admin\\admin-login\\admin-login.component.html",
+              "RelativeDocumentMoniker": "src\\app\\admin\\admin-login\\admin-login.component.html",
+              "ToolTip": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\app\\admin\\admin-login\\admin-login.component.html",
+              "RelativeToolTip": "src\\app\\admin\\admin-login\\admin-login.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-07T16:13:00.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "user-profile.component.html",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\app\\user-profile\\user-profile.component.html",
+              "RelativeDocumentMoniker": "src\\app\\user-profile\\user-profile.component.html",
+              "ToolTip": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\app\\user-profile\\user-profile.component.html",
+              "RelativeToolTip": "src\\app\\user-profile\\user-profile.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-07T16:12:49.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "header.component.html",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\app\\shared\\layouts\\header\\header.component.html",
+              "RelativeDocumentMoniker": "src\\app\\shared\\layouts\\header\\header.component.html",
+              "ToolTip": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\app\\shared\\layouts\\header\\header.component.html",
+              "RelativeToolTip": "src\\app\\shared\\layouts\\header\\header.component.html",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-07T16:08:32.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "en.json",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\assets\\i18n\\en.json",
+              "RelativeDocumentMoniker": "src\\assets\\i18n\\en.json",
+              "ToolTip": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\assets\\i18n\\en.json",
+              "RelativeToolTip": "src\\assets\\i18n\\en.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-07T16:07:36.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\app\\app.module.ts",
+              "RelativeToolTip": "src\\app\\app.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-07T16:04:15.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "admin-dashboard.component.html",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\app\\admin\\admin-dashboard\\admin-dashboard.component.html",
+              "RelativeDocumentMoniker": "src\\app\\admin\\admin-dashboard\\admin-dashboard.component.html",
+              "ToolTip": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\app\\admin\\admin-dashboard\\admin-dashboard.component.html",
+              "RelativeToolTip": "src\\app\\admin\\admin-dashboard\\admin-dashboard.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-07T16:02:29.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "home.component.html",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\app\\home\\home.component.html",
+              "RelativeDocumentMoniker": "src\\app\\home\\home.component.html",
+              "ToolTip": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\app\\home\\home.component.html",
+              "RelativeToolTip": "src\\app\\home\\home.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-07T16:01:07.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\main.ts",
+              "RelativeDocumentMoniker": "src\\main.ts",
+              "ToolTip": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\main.ts",
+              "RelativeToolTip": "src\\main.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-07T16:00:45.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\index.html",
+              "RelativeDocumentMoniker": "src\\index.html",
+              "ToolTip": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\index.html",
+              "RelativeToolTip": "src\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-07T15:59:51.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "buyer-dashboard.component.scss",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\app\\customer\\buyer\\buyer-dashboard\\buyer-dashboard.component.scss",
+              "RelativeDocumentMoniker": "src\\app\\customer\\buyer\\buyer-dashboard\\buyer-dashboard.component.scss",
+              "ToolTip": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\app\\customer\\buyer\\buyer-dashboard\\buyer-dashboard.component.scss",
+              "RelativeToolTip": "src\\app\\customer\\buyer\\buyer-dashboard\\buyer-dashboard.component.scss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-07T15:55:47.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "mock-api-data.json",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\mock-api-data.json",
+              "RelativeDocumentMoniker": "mock-api-data.json",
+              "ToolTip": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\mock-api-data.json",
+              "RelativeToolTip": "mock-api-data.json",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAAAHwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-07T15:54:52.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "src\\app\\app-routing.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-07T15:51:43.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "environment.ts",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\environments\\environment.ts",
+              "RelativeDocumentMoniker": "src\\environments\\environment.ts",
+              "ToolTip": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\environments\\environment.ts",
+              "RelativeToolTip": "src\\environments\\environment.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-07T15:51:31.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "environment.prod.ts",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\environments\\environment.prod.ts",
+              "RelativeDocumentMoniker": "src\\environments\\environment.prod.ts",
+              "ToolTip": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\src\\environments\\environment.prod.ts",
+              "RelativeToolTip": "src\\environments\\environment.prod.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-07T15:51:31.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "app.po.ts",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\e2e\\src\\app.po.ts",
+              "RelativeDocumentMoniker": "e2e\\src\\app.po.ts",
+              "ToolTip": "C:\\Users\\Desktop\\Desktop\\bolma\\angular-ecommerce\\e2e\\src\\app.po.ts",
+              "RelativeToolTip": "e2e\\src\\app.po.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-07T15:51:20.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

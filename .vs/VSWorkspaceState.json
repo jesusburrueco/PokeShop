@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\admin\\admin-login",
+    "\\src\\app\\customer",
+    "\\src\\app\\customer\\buyer",
+    "\\src\\app\\customer\\buyer\\buyer-dashboard",
+    "\\src\\app\\customer\\buyer\\checkout",
+    "\\src\\app\\product\\product-crud",
+    "\\src\\assets",
+    "\\src\\assets\\i18n"
+  ],
+  "SelectedNode": "\\src\\app\\customer\\buyer\\checkout\\checkout.component.html",
+  "PreviewInSolutionExplorer": false
+}
